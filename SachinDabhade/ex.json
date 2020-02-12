@@ -1,0 +1,23 @@
+{
+    "student":[  
+    {
+        "sachin":{
+            "name":"Shyam", "email":"dabhade904@gmail.com"
+        },  
+        "xyz":{
+            "name":"Bob", "email":"bob32@gmail.com"
+        },  
+        "abc":{
+            "name":"Jai", "email":"jai87@gmail.com"
+        }  
+    },    {
+        "awe":{
+            "name":"Shyam", "email":"dabhade904@gmail.com"
+        },  
+        "xyz":{
+            "name":"Bob", "email":"bob32@gmail.com"
+        },  
+        "abc":{
+            "name":"Jai", "email":"jai87@gmail.com"
+        } } ]
+}  
